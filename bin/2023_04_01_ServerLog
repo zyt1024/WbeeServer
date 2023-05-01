@@ -1,0 +1,24 @@
+2023-04-01 12:50:49.547369 [info]: 有客户端进来
+2023-04-01 12:50:49.548060 [info]: 有客户端进来
+2023-04-01 12:50:52.821342 [info]: 捕捉信号
+2023-04-01 12:50:52.821415 [info]: timer tick
+2023-04-01 12:50:53.410317 [info]: deal with the client(202.122.36.52)
+2023-04-01 12:50:53.410369 [info]: adjust timer once
+2023-04-01 12:50:53.411630 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 12:50:53.411681 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 12:50:53.411712 [info]: oop! unknow header Origin: http://43.138.18.163:8080
+
+2023-04-01 12:50:53.411738 [info]: oop! unknow header Content-Type: application/x-www-form-urlencoded
+
+2023-04-01 12:50:53.411780 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 12:50:53.411956 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 12:50:53.412000 [info]: oop! unknow header Referer: http://43.138.18.163:8080/log.html
+
+2023-04-01 12:50:53.412029 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 12:50:53.412062 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+

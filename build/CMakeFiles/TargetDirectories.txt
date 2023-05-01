@@ -1,0 +1,3 @@
+/home/atzyt/Linux/Lesson/webserver/build/CMakeFiles/rebuild_cache.dir
+/home/atzyt/Linux/Lesson/webserver/build/CMakeFiles/edit_cache.dir
+/home/atzyt/Linux/Lesson/webserver/build/CMakeFiles/server.dir

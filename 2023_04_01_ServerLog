@@ -1,0 +1,291 @@
+2023-04-01 13:39:03.837105 [info]: 捕捉信号
+2023-04-01 13:39:03.837195 [info]: timer tick
+2023-04-01 13:39:05.436261 [info]: 有客户端进来
+2023-04-01 13:39:05.446446 [info]: 有客户端进来
+2023-04-01 13:39:08.544820 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:08.544899 [info]: adjust timer once
+2023-04-01 13:39:08.546388 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:39:08.546436 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:39:08.546467 [info]: oop! unknow header Origin: http://43.138.18.163:8081
+
+2023-04-01 13:39:08.546496 [info]: oop! unknow header Content-Type: application/x-www-form-urlencoded
+
+2023-04-01 13:39:08.546530 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:08.546579 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:39:08.546613 [info]: oop! unknow header Referer: http://43.138.18.163:8081/log.html
+
+2023-04-01 13:39:08.546638 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:08.546663 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:08.546687 [info]: parse_content: user=1111&password=1111  m_read_idx=637 m_content_length:23  m_checked_idx=614 
+2023-04-01 13:39:08.546697 [info]: parse_content: user=1111&password=1111
+2023-04-01 13:39:08.546702 [info]: do request: 1  l
+
+
+2023-04-01 13:39:08.546706 [info]: do post : user=1111&password=1111
+2023-04-01 13:39:08.546710 [info]: user:aaa,password:aaa %s, (null)
+2023-04-01 13:39:08.546763 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:08.546769 [info]: adjust timer once
+2023-04-01 13:39:08.565661 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:08.565713 [info]: adjust timer once
+2023-04-01 13:39:08.566885 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:08.566930 [info]: oop! unknow header Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2023-04-01 13:39:08.566959 [info]: oop! unknow header Referer: http://43.138.18.163:8081/login
+
+2023-04-01 13:39:08.567003 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:08.567034 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:08.567052 [info]: do request: 0  /images/image1.jpg
+2023-04-01 13:39:08.567204 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:08.567225 [info]: adjust timer once
+2023-04-01 13:39:08.573802 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:08.573835 [info]: adjust timer once
+2023-04-01 13:39:08.837224 [info]: 捕捉信号
+2023-04-01 13:39:08.837290 [info]: timer tick
+2023-04-01 13:39:13.837326 [info]: 捕捉信号
+2023-04-01 13:39:13.837405 [info]: timer tick
+2023-04-01 13:39:18.837435 [info]: 捕捉信号
+2023-04-01 13:39:18.837496 [info]: timer tick
+2023-04-01 13:39:23.837522 [info]: 捕捉信号
+2023-04-01 13:39:23.837610 [info]: timer tick
+2023-04-01 13:39:28.837636 [info]: 捕捉信号
+2023-04-01 13:39:28.837691 [info]: timer tick
+2023-04-01 13:39:33.837728 [info]: 捕捉信号
+2023-04-01 13:39:33.837778 [info]: timer tick
+2023-04-01 13:39:38.837823 [info]: 捕捉信号
+2023-04-01 13:39:38.837879 [info]: timer tick
+2023-04-01 13:39:43.837905 [info]: 捕捉信号
+2023-04-01 13:39:43.837976 [info]: timer tick
+2023-04-01 13:39:48.838011 [info]: 捕捉信号
+2023-04-01 13:39:48.838084 [info]: timer tick
+2023-04-01 13:39:53.838114 [info]: 捕捉信号
+2023-04-01 13:39:57.245264 [info]: 有客户端进来
+2023-04-01 13:39:57.245661 [info]: 有客户端进来
+2023-04-01 13:39:58.294745 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:58.294805 [info]: adjust timer once
+2023-04-01 13:39:58.296286 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:39:58.296337 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:39:58.296369 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:58.296402 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:39:58.296430 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:58.296458 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:58.296480 [info]: do request0: 0  /log.html
+2023-04-01 13:39:58.296485 [info]: do request: 0  /log.html
+2023-04-01 13:39:58.296525 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:58.296532 [info]: adjust timer once
+2023-04-01 13:39:58.485747 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:58.485881 [info]: adjust timer once
+2023-04-01 13:39:58.487895 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:39:58.488111 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:39:58.488317 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:58.488434 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:39:58.488612 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:58.488721 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:58.488878 [info]: do request0: 0  /log.html
+2023-04-01 13:39:58.488896 [info]: do request: 0  /log.html
+2023-04-01 13:39:58.488928 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:58.488939 [info]: adjust timer once
+2023-04-01 13:39:58.678487 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:58.678625 [info]: adjust timer once
+2023-04-01 13:39:58.679866 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:39:58.679989 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:39:58.680149 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:58.680290 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:39:58.680594 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:58.680707 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:58.680734 [info]: do request0: 0  /log.html
+2023-04-01 13:39:58.680740 [info]: do request: 0  /log.html
+2023-04-01 13:39:58.680785 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:58.680808 [info]: adjust timer once
+2023-04-01 13:39:59.701932 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:39:59.702012 [info]: adjust timer once
+2023-04-01 13:39:59.703503 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:39:59.703549 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:39:59.703582 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:39:59.703614 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:39:59.703771 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:39:59.703824 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:39:59.703903 [info]: do request0: 0  /log.html
+2023-04-01 13:39:59.703914 [info]: do request: 0  /log.html
+2023-04-01 13:39:59.703967 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:39:59.703975 [info]: adjust timer once
+2023-04-01 13:40:00.580303 [info]: 捕捉信号
+2023-04-01 13:40:00.580423 [info]: timer tick
+2023-04-01 13:40:05.349014 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:40:05.349070 [info]: adjust timer once
+2023-04-01 13:40:05.351465 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:40:05.351591 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:40:05.351630 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:40:05.351739 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:40:05.351773 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:40:05.351792 [info]: do request0: 0  /log.html
+2023-04-01 13:40:05.351797 [info]: do request: 0  /log.html
+2023-04-01 13:40:05.351873 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:40:05.351881 [info]: adjust timer once
+2023-04-01 13:40:05.580449 [info]: 捕捉信号
+2023-04-01 13:40:05.580510 [info]: timer tick
+2023-04-01 13:40:09.296027 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:40:09.296077 [info]: adjust timer once
+2023-04-01 13:40:09.298778 [info]: oop! unknow header Cache-Control: max-age=0
+
+2023-04-01 13:40:09.298955 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+
+2023-04-01 13:40:09.299778 [info]: oop! unknow header Origin: http://43.138.18.163:8081
+
+2023-04-01 13:40:09.299892 [info]: oop! unknow header Content-Type: application/x-www-form-urlencoded
+
+2023-04-01 13:40:09.300000 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:40:09.300180 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+
+2023-04-01 13:40:09.300294 [info]: oop! unknow header Referer: http://43.138.18.163:8081/log.html
+
+2023-04-01 13:40:09.300394 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:40:09.300487 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:40:09.300566 [info]: parse_content: user=111&password=111  m_read_idx=635 m_content_length:21  m_checked_idx=614 
+2023-04-01 13:40:09.300578 [info]: parse_content: user=111&password=111
+2023-04-01 13:40:09.300583 [info]: do request0: 1  l
+
+
+2023-04-01 13:40:09.300586 [info]: do request: 1  l
+
+
+2023-04-01 13:40:09.300590 [info]: do post : user=111&password=111
+2023-04-01 13:40:09.300594 [info]: user:aaa,password:aaa %s, (null)
+2023-04-01 13:40:09.300751 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:40:09.300769 [info]: adjust timer once
+2023-04-01 13:40:09.319541 [info]: deal with the client(202.122.36.52)
+2023-04-01 13:40:09.319580 [info]: adjust timer once
+2023-04-01 13:40:09.320669 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+2023-04-01 13:40:09.320792 [info]: oop! unknow header Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+
+2023-04-01 13:40:09.320824 [info]: oop! unknow header Referer: http://43.138.18.163:8081/login
+
+2023-04-01 13:40:09.320848 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+
+2023-04-01 13:40:09.320993 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9
+
+2023-04-01 13:40:09.321136 [info]: do request0: 0  /images/image1.jpg
+2023-04-01 13:40:09.321157 [info]: do request: 0  /images/image1.jpg
+2023-04-01 13:40:09.321341 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:40:09.321363 [info]: adjust timer once
+2023-04-01 13:40:09.329110 [info]: send data to the client(202.122.36.52)
+2023-04-01 13:40:09.329154 [info]: adjust timer once
+2023-04-01 13:40:10.580534 [info]: 捕捉信号
+2023-04-01 13:40:10.580592 [info]: timer tick
+2023-04-01 13:40:15.580622 [info]: 捕捉信号
+2023-04-01 13:40:15.580740 [info]: timer tick
+2023-04-01 13:40:20.580769 [info]: 捕捉信号
+2023-04-01 13:40:20.580833 [info]: timer tick
+2023-04-01 13:40:25.580861 [info]: 捕捉信号
+2023-04-01 13:40:25.580952 [info]: timer tick
+2023-04-01 13:40:30.580981 [info]: 捕捉信号
+2023-04-01 13:40:30.581037 [info]: timer tick
+2023-04-01 13:40:35.581073 [info]: 捕捉信号
+2023-04-01 13:40:35.581159 [info]: timer tick
+2023-04-01 13:40:40.581187 [info]: 捕捉信号
+2023-04-01 13:40:40.581249 [info]: timer tick
+2023-04-01 13:40:45.581281 [info]: 捕捉信号
+2023-04-01 13:40:45.581354 [info]: timer tick
+2023-04-01 13:40:50.581388 [info]: 捕捉信号
+2023-04-01 13:40:50.581506 [info]: timer tick
+2023-04-01 13:40:55.581537 [info]: 捕捉信号
+2023-04-01 13:40:55.581610 [info]: timer tick
+2023-04-01 13:41:00.581637 [info]: 捕捉信号
+2023-04-01 13:41:00.581694 [info]: timer tick
+2023-04-01 13:41:05.581748 [info]: 捕捉信号
+2023-04-01 13:41:05.581807 [info]: timer tick
+2023-04-01 13:41:10.581835 [info]: 捕捉信号
+2023-04-01 13:41:10.581897 [info]: timer tick
+2023-04-01 13:41:15.581977 [info]: 捕捉信号
+2023-04-01 13:41:15.582057 [info]: timer tick
+2023-04-01 13:41:20.582086 [info]: 捕捉信号
+2023-04-01 13:41:20.582173 [info]: timer tick
+2023-04-01 13:41:25.582184 [info]: 捕捉信号
+2023-04-01 13:41:25.582235 [info]: timer tick
+2023-04-01 13:41:30.582261 [info]: 捕捉信号
+2023-04-01 13:41:30.582320 [info]: timer tick
+2023-04-01 13:41:35.582350 [info]: 捕捉信号
+2023-04-01 13:41:35.582405 [info]: timer tick
+2023-04-01 13:41:40.582432 [info]: 捕捉信号
+2023-04-01 13:41:40.582481 [info]: timer tick
+2023-04-01 13:41:45.582508 [info]: 捕捉信号
+2023-04-01 13:41:45.582571 [info]: timer tick
+2023-04-01 13:41:50.582604 [info]: 捕捉信号
+2023-04-01 13:41:50.582679 [info]: timer tick
+2023-04-01 13:41:55.582708 [info]: 捕捉信号
+2023-04-01 13:41:55.582777 [info]: timer tick
+2023-04-01 13:42:00.582804 [info]: 捕捉信号
+2023-04-01 13:42:00.582862 [info]: timer tick
+2023-04-01 13:42:05.582891 [info]: 捕捉信号
+2023-04-01 13:42:05.582947 [info]: timer tick
+2023-04-01 13:42:10.582980 [info]: 捕捉信号
+2023-04-01 13:42:10.583045 [info]: timer tick
+2023-04-01 13:42:15.583077 [info]: 捕捉信号
+2023-04-01 13:42:15.583133 [info]: timer tick
+2023-04-01 13:42:20.583184 [info]: 捕捉信号
+2023-04-01 13:42:20.583237 [info]: timer tick
+2023-04-01 13:42:25.583306 [info]: 捕捉信号
+2023-04-01 13:42:25.583371 [info]: timer tick
+2023-04-01 13:42:30.583402 [info]: 捕捉信号
+2023-04-01 13:42:30.583469 [info]: timer tick
+2023-04-01 13:42:35.583499 [info]: 捕捉信号
+2023-04-01 13:42:35.583573 [info]: timer tick
+2023-04-01 13:42:40.583600 [info]: 捕捉信号
+2023-04-01 13:42:40.583662 [info]: timer tick
+2023-04-01 13:42:45.583700 [info]: 捕捉信号
+2023-04-01 13:42:45.583764 [info]: timer tick
+2023-04-01 13:42:50.583792 [info]: 捕捉信号
+2023-04-01 13:42:50.583852 [info]: timer tick
+2023-04-01 13:42:55.583881 [info]: 捕捉信号
+2023-04-01 13:42:55.584005 [info]: timer tick
+2023-04-01 13:43:00.584034 [info]: 捕捉信号
+2023-04-01 13:43:00.584086 [info]: timer tick
+2023-04-01 13:43:05.584114 [info]: 捕捉信号
+2023-04-01 13:43:05.584174 [info]: timer tick
+2023-04-01 13:43:10.584207 [info]: 捕捉信号
+2023-04-01 13:43:10.584275 [info]: timer tick
+2023-04-01 13:43:15.584307 [info]: 捕捉信号
+2023-04-01 13:43:15.584378 [info]: timer tick
+2023-04-01 13:43:20.584417 [info]: 捕捉信号
+2023-04-01 13:43:20.584493 [info]: timer tick

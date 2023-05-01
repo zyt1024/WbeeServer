@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++     CMakeFiles/server.dir/main.cpp.o CMakeFiles/server.dir/source/http_conn.cpp.o CMakeFiles/server.dir/source/log.cpp.o CMakeFiles/server.dir/source/lst_timer.cpp.o CMakeFiles/server.dir/source/webserver.cpp.o  -o ../bin/server  -lpthread 
